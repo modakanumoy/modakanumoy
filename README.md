@@ -1,9 +1,2 @@
-- Hi my name is Anumoy Modak.
-- Completed my M.Sc in Economics from Xavier Institute of Management, Bhubaneswar, India.
-- Economic and Data Analysis Enthusiast using Python programming language. 
-  
-
-<!---
-modakanumoy/modakanumoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Driven and analytical Market Research Analyst and Project Manager with extensive experience in quantitative and qualitative research, competitive analysis, and data visualization. I hold a Master's in Economics and have interned with leading organizations like Quantuva Technology, I-PAC, and Ageas Federal Life Insurance, providing actionable insights through comprehensive data analysis. My expertise in Python, Excel, and econometric techniques has empowered businesses to make informed strategic decisions, enhancing marketing strategies and improving organizational performance.
+I had also served as a Project Manager at Wyreflow Technologies pvt. Ltd., where I lead the UI/UX team, Backend Developers team, and Testing team to deliver high-quality, user-centric solutions. My combined skills in market research and project management allow me to align business goals with data-driven strategies for optimal results.
